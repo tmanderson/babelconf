@@ -1,0 +1,44 @@
+{
+  "name": "babelconf",
+  "version": "0.1.0",
+  "description": "Easily create and update babelrc configuration file",
+  "main": "src/index.js",
+  "bin": {
+    "babelconf": "./bin/babelconf"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "chalk": "^1.1.3",
+    "cheerio": "^0.20.0",
+    "inquirer": "^1.0.3",
+    "lodash": "^4.13.1",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmanderson/babelconf.git"
+  },
+  "keywords": [
+    "babel",
+    "babelrc",
+    "babelrc",
+    "config",
+    "babel",
+    "config",
+    "es6",
+    "project",
+    "setup",
+    "cli",
+    "config"
+  ],
+  "author": "Mitch Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmanderson/babelconf/issues"
+  },
+  "homepage": "https://github.com/tmanderson/babelconf#readme"
+}

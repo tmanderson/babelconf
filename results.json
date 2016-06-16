@@ -1,0 +1,298 @@
+[
+  {
+    "heading": "Official Presets",
+    "items": []
+  },
+  {
+    "heading": "Stage-X (Experimental Presets)",
+    "items": []
+  },
+  {
+    "heading": "ES3",
+    "items": [
+      {
+        "name": "es3-member-expression-literals",
+        "module": "babel-plugin-transform-es3-member-expression-literals"
+      },
+      {
+        "name": "es3-property-literals",
+        "module": "babel-plugin-transform-es3-property-literals"
+      }
+    ]
+  },
+  {
+    "heading": "ES5",
+    "items": [
+      {
+        "name": "es5-property-mutators",
+        "module": "babel-plugin-transform-es5-property-mutators"
+      }
+    ]
+  },
+  {
+    "heading": "ES2015",
+    "items": [
+      {
+        "name": "es2015-arrow-functions",
+        "module": "babel-plugin-transform-es2015-arrow-functions"
+      },
+      {
+        "name": "es2015-block-scoped-functions",
+        "module": "babel-plugin-transform-es2015-block-scoped-functions"
+      },
+      {
+        "name": "es2015-block-scoping",
+        "module": "babel-plugin-transform-es2015-block-scoping"
+      },
+      {
+        "name": "es2015-classes",
+        "module": "babel-plugin-transform-es2015-classes"
+      },
+      {
+        "name": "es2015-computed-properties",
+        "module": "babel-plugin-transform-es2015-computed-properties"
+      },
+      {
+        "name": "es2015-constants",
+        "module": "babel-plugin-check-es2015-constants"
+      },
+      {
+        "name": "es2015-destructuring",
+        "module": "babel-plugin-transform-es2015-destructuring"
+      },
+      {
+        "name": "es2015-duplicate-keys",
+        "module": "babel-plugin-transform-es2015-duplicate-keys"
+      },
+      {
+        "name": "es2015-for-of",
+        "module": "babel-plugin-transform-es2015-for-of"
+      },
+      {
+        "name": "es2015-function-name",
+        "module": "babel-plugin-transform-es2015-function-name"
+      },
+      {
+        "name": "es2015-literals",
+        "module": "babel-plugin-transform-es2015-literals"
+      },
+      {
+        "name": "es2015-object-super",
+        "module": "babel-plugin-transform-es2015-object-super"
+      },
+      {
+        "name": "es2015-parameters",
+        "module": "babel-plugin-transform-es2015-parameters"
+      },
+      {
+        "name": "es2015-shorthand-properties",
+        "module": "babel-plugin-transform-es2015-shorthand-properties"
+      },
+      {
+        "name": "es2015-spread",
+        "module": "babel-plugin-transform-es2015-spread"
+      },
+      {
+        "name": "es2015-sticky-regex",
+        "module": "babel-plugin-transform-es2015-sticky-regex"
+      },
+      {
+        "name": "es2015-template-literals",
+        "module": "babel-plugin-transform-es2015-template-literals"
+      },
+      {
+        "name": "es2015-typeof-symbol",
+        "module": "babel-plugin-transform-es2015-typeof-symbol"
+      },
+      {
+        "name": "es2015-unicode-regex",
+        "module": "babel-plugin-transform-es2015-unicode-regex"
+      }
+    ]
+  },
+  {
+    "heading": "Modules",
+    "items": [
+      {
+        "name": "es2015-modules-amd",
+        "module": "babel-plugin-transform-es2015-modules-amd"
+      },
+      {
+        "name": "es2015-modules-commonjs",
+        "module": "babel-plugin-transform-es2015-modules-commonjs"
+      },
+      {
+        "name": "es2015-modules-systemjs",
+        "module": "babel-plugin-transform-es2015-modules-systemjs"
+      },
+      {
+        "name": "es2015-modules-umd",
+        "module": "babel-plugin-transform-es2015-modules-umd"
+      }
+    ]
+  },
+  {
+    "heading": "Experimental",
+    "items": [
+      {
+        "name": "async-to-generator",
+        "module": "babel-plugin-transform-async-to-generator"
+      },
+      {
+        "name": "async-to-module-method",
+        "module": "babel-plugin-transform-async-to-module-method"
+      },
+      {
+        "name": "class-constructor-call",
+        "module": "babel-plugin-transform-class-constructor-call"
+      },
+      {
+        "name": "class-properties",
+        "module": "babel-plugin-transform-class-properties"
+      },
+      {
+        "name": "decorators",
+        "module": "babel-plugin-transform-decorators"
+      },
+      {
+        "name": "do-expressions",
+        "module": "babel-plugin-transform-do-expressions"
+      },
+      {
+        "name": "exponentiation-operator",
+        "module": "babel-plugin-transform-exponentiation-operator"
+      },
+      {
+        "name": "export-extensions",
+        "module": "babel-plugin-transform-export-extensions"
+      },
+      {
+        "name": "function-bind",
+        "module": "babel-plugin-transform-function-bind"
+      },
+      {
+        "name": "object-rest-spread",
+        "module": "babel-plugin-transform-object-rest-spread"
+      }
+    ]
+  },
+  {
+    "heading": "Minification",
+    "items": [
+      {
+        "name": "member-expression-literals",
+        "module": "babel-plugin-transform-member-expression-literals"
+      },
+      {
+        "name": "merge-sibling-variables",
+        "module": "babel-plugin-transform-merge-sibling-variables"
+      },
+      {
+        "name": "minify-booleans",
+        "module": "babel-plugin-transform-minify-booleans"
+      },
+      {
+        "name": "property-literals",
+        "module": "babel-plugin-transform-property-literals"
+      },
+      {
+        "name": "remove-console",
+        "module": "babel-plugin-transform-remove-console"
+      },
+      {
+        "name": "remove-debugger",
+        "module": "babel-plugin-transform-remove-debugger"
+      },
+      {
+        "name": "simplify-comparison-operators",
+        "module": "babel-plugin-transform-simplify-comparison-operators"
+      }
+    ]
+  },
+  {
+    "heading": "React",
+    "items": [
+      {
+        "name": "react-constant-elements",
+        "module": "babel-plugin-transform-react-constant-elements"
+      },
+      {
+        "name": "react-display-name",
+        "module": "babel-plugin-transform-react-display-name"
+      },
+      {
+        "name": "react-inline-elements",
+        "module": "babel-plugin-transform-react-inline-elements"
+      },
+      {
+        "name": "react-jsx",
+        "module": "babel-plugin-transform-react-jsx"
+      },
+      {
+        "name": "react-jsx-compat",
+        "module": "babel-plugin-transform-react-jsx-compat"
+      },
+      {
+        "name": "react-jsx-source",
+        "module": "babel-plugin-transform-react-jsx-source"
+      }
+    ]
+  },
+  {
+    "heading": "Other",
+    "items": [
+      {
+        "name": "eval",
+        "module": "babel-plugin-transform-eval"
+      },
+      {
+        "name": "flow-comments",
+        "module": "babel-plugin-transform-flow-comments"
+      },
+      {
+        "name": "flow-strip-types",
+        "module": "babel-plugin-transform-flow-strip-types"
+      },
+      {
+        "name": "inline-environment-variables",
+        "module": "babel-plugin-transform-inline-environment-variables"
+      },
+      {
+        "name": "jscript",
+        "module": "babel-plugin-transform-jscript"
+      },
+      {
+        "name": "node-env-inline",
+        "module": "babel-plugin-transform-node-env-inline"
+      },
+      {
+        "name": "object-assign",
+        "module": "babel-plugin-transform-object-assign"
+      },
+      {
+        "name": "object-set-prototype-of-to-assign",
+        "module": "babel-plugin-transform-object-set-prototype-of-to-assign"
+      },
+      {
+        "name": "proto-to-assign",
+        "module": "babel-plugin-transform-proto-to-assign"
+      },
+      {
+        "name": "regenerator",
+        "module": "babel-plugin-transform-regenerator"
+      },
+      {
+        "name": "runtime",
+        "module": "babel-plugin-transform-runtime"
+      },
+      {
+        "name": "strict-mode",
+        "module": "babel-plugin-transform-strict-mode"
+      },
+      {
+        "name": "undefined-to-void",
+        "module": "babel-plugin-transform-undefined-to-void"
+      }
+    ]
+  }
+]
