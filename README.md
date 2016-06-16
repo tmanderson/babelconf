@@ -16,6 +16,8 @@ option.
   $ > babelconf
 ```
 
+![babelconf](./babelconf.png)
+
 Babelconf uses the the latest listing of presets and plugins from the babel
 website. Babelconf supports **all** presets and plugins.
 
