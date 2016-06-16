@@ -5,7 +5,7 @@ const spawn = require('child_process').spawn
 const chalk = require('chalk')
 const Promise = require('bluebird')
 
-const RESOURCE_DIR = path.join(require('os').homedir(), '.babel-config-cli')
+const RESOURCE_DIR = path.join(require('os').homedir(), '.babelconf')
 const BABEL_PATH = path.join(process.cwd(), '.babelrc')
 const PLUGINS_PATH = path.join(RESOURCE_DIR, 'plugins.json')
 const PACKAGE_JSON = path.join(process.cwd(), 'package.json')
