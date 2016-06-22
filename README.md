@@ -24,4 +24,4 @@ option.
 ![babelconf](./babelconf.png)
 
 ### TODO: 
-[ ] Support showing which plugins are installed when updating
+- [ ] Support showing which plugins are installed when updating
