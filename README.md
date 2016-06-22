@@ -16,6 +16,7 @@ option.
 - **Updates** and **installs** `package.json` and installs selected plugins.
 - **Updates** or **creates** `.babelrc` configuration (confirms merge, overwrite on update)
 
+### Install and Run
 ```
   $ > npm install -g babelconf
   $ > babelconf
